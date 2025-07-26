@@ -1,0 +1,22 @@
+{
+    "_id" : NumberInt(1),
+    "age" : NumberInt(15),
+    "name" : "ahmed",
+    "address" : "alex",
+    "major" : "SD",
+    "year" : NumberInt(2018)
+}
+{
+    "_id" : NumberInt(2),
+    "age" : NumberInt(15),
+    "name" : "ahmed",
+    "address" : "alex",
+    "major" : "SD",
+    "year" : NumberInt(2018),
+    "gpa" : 10.5
+}
+{
+    "_id" : ObjectId("67d80b54c230566a8d072fb9"),
+    "gae" : NumberInt(15),
+    "anme" : "ahmed"
+}

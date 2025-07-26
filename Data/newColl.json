@@ -1,0 +1,12 @@
+{
+    "_id" : "Widget",
+    "total_revenue" : NumberInt(1120)
+}
+{
+    "_id" : "Gadget",
+    "total_revenue" : NumberInt(300)
+}
+{
+    "_id" : "Accessory",
+    "total_revenue" : NumberInt(300)
+}

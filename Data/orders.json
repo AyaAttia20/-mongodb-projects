@@ -1,0 +1,81 @@
+{
+    "_id" : NumberInt(0),
+    "name" : "Pepperoni",
+    "size" : "small",
+    "price" : NumberInt(50),
+    "quantity" : NumberInt(40),
+    "date" : ISODate("2021-03-13T08:14:30.000+0000")
+}
+{
+    "_id" : NumberInt(1),
+    "name" : "Pepperoni",
+    "size" : "medium",
+    "price" : NumberInt(20),
+    "quantity" : NumberInt(50),
+    "date" : ISODate("2021-03-13T09:13:24.000+0000")
+}
+{
+    "_id" : NumberInt(2),
+    "name" : "Pepperoni",
+    "size" : "large",
+    "price" : NumberInt(20),
+    "quantity" : NumberInt(70),
+    "date" : ISODate("2021-03-17T09:22:12.000+0000")
+}
+{
+    "_id" : NumberInt(3),
+    "name" : "Cheese",
+    "size" : "small",
+    "price" : NumberInt(12),
+    "quantity" : NumberInt(15),
+    "date" : ISODate("2021-03-13T11:21:39.736+0000")
+}
+{
+    "_id" : NumberInt(4),
+    "name" : "Cheese",
+    "size" : "medium",
+    "price" : NumberInt(13),
+    "quantity" : NumberInt(50),
+    "date" : ISODate("2022-01-12T21:23:13.331+0000")
+}
+{
+    "_id" : NumberInt(5),
+    "name" : "Cheese",
+    "size" : "large",
+    "price" : NumberInt(14),
+    "quantity" : NumberInt(10),
+    "date" : ISODate("2022-01-12T05:08:13.000+0000")
+}
+{
+    "_id" : NumberInt(6),
+    "name" : "Vegan",
+    "size" : "small",
+    "price" : NumberInt(17),
+    "quantity" : NumberInt(10),
+    "date" : ISODate("2021-01-13T05:08:13.000+0000")
+}
+{
+    "_id" : NumberInt(7),
+    "name" : "Vegan",
+    "size" : "medium",
+    "price" : NumberInt(18),
+    "quantity" : NumberInt(10),
+    "date" : ISODate("2021-01-13T05:10:13.000+0000")
+}
+{
+    "_id" : NumberInt(8),
+    "name" : "Vegan",
+    "size" : "medium",
+    "price" : NumberInt(18),
+    "quantity" : NumberInt(20)
+}
+{
+    "_id" : ObjectId("67d81261c230566a8d072fbc"),
+    "name" : "Pepperoni",
+    "price" : NumberInt(20)
+}
+{
+    "_id" : ObjectId("67d812c9c230566a8d072fbd"),
+    "name" : "Pepperoni",
+    "price" : NumberInt(20)
+}

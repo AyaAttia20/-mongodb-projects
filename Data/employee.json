@@ -1,0 +1,30 @@
+{
+    "_id" : NumberInt(1),
+    "fName" : "mohamed",
+    "lName" : "ahmed",
+    "age" : NumberInt(15)
+}
+{
+    "_id" : NumberInt(2),
+    "fName" : "noha",
+    "lName" : "mahmoud",
+    "age" : NumberInt(25)
+}
+{
+    "_id" : NumberInt(3),
+    "fName" : "malak",
+    "lName" : "mohamed",
+    "age" : NumberInt(35)
+}
+{
+    "_id" : NumberInt(4),
+    "fName" : "mazen",
+    "lName" : "mohamed",
+    "age" : NumberInt(45)
+}
+{
+    "_id" : NumberInt(5),
+    "fName" : "eman",
+    "lName" : "ali",
+    "age" : NumberInt(55)
+}

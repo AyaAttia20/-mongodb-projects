@@ -1,0 +1,112 @@
+{
+    "_id" : ObjectId("67d7ef50c230566a8d072f8a"),
+    "product" : "Widget",
+    "quantity" : NumberInt(10),
+    "price" : NumberInt(25),
+    "date" : ISODate("2018-12-15T08:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("67d7ef50c230566a8d072f8b"),
+    "product" : "Gadget",
+    "quantity" : NumberInt(5),
+    "price" : NumberInt(50),
+    "date" : ISODate("2019-03-20T14:30:00.000+0000")
+}
+{
+    "_id" : ObjectId("67d7ef50c230566a8d072f8c"),
+    "product" : "Widget",
+    "quantity" : NumberInt(8),
+    "price" : NumberInt(25),
+    "date" : ISODate("2020-05-01T10:15:00.000+0000")
+}
+{
+    "_id" : ObjectId("67d7ef50c230566a8d072f8d"),
+    "product" : "Gadget",
+    "quantity" : NumberInt(3),
+    "price" : NumberInt(50),
+    "date" : ISODate("2020-09-10T16:45:00.000+0000")
+}
+{
+    "_id" : ObjectId("67d7ef50c230566a8d072f8e"),
+    "product" : "Accessory",
+    "quantity" : NumberInt(15),
+    "price" : NumberInt(10),
+    "date" : ISODate("2021-02-20T09:30:00.000+0000")
+}
+{
+    "_id" : ObjectId("67d7ef50c230566a8d072f8f"),
+    "product" : "Widget",
+    "quantity" : NumberInt(12),
+    "price" : NumberInt(30),
+    "date" : ISODate("2022-04-05T11:45:00.000+0000")
+}
+{
+    "_id" : ObjectId("67d7ef50c230566a8d072f90"),
+    "product" : "Gadget",
+    "quantity" : NumberInt(7),
+    "price" : NumberInt(55),
+    "date" : ISODate("2023-01-10T14:30:00.000+0000")
+}
+{
+    "_id" : ObjectId("67d7ef50c230566a8d072f91"),
+    "product" : "Accessory",
+    "quantity" : NumberInt(20),
+    "price" : NumberInt(12),
+    "date" : ISODate("2023-04-15T09:30:00.000+0000")
+}
+{
+    "_id" : ObjectId("67dac16523185efdf0072f8a"),
+    "product" : "Widget",
+    "quantity" : NumberInt(10),
+    "price" : NumberInt(25),
+    "date" : ISODate("2018-12-15T08:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("67dac16523185efdf0072f8b"),
+    "product" : "Gadget",
+    "quantity" : NumberInt(5),
+    "price" : NumberInt(50),
+    "date" : ISODate("2019-03-20T14:30:00.000+0000")
+}
+{
+    "_id" : ObjectId("67dac16523185efdf0072f8c"),
+    "product" : "Widget",
+    "quantity" : NumberInt(8),
+    "price" : NumberInt(25),
+    "date" : ISODate("2020-05-01T10:15:00.000+0000")
+}
+{
+    "_id" : ObjectId("67dac16523185efdf0072f8d"),
+    "product" : "Gadget",
+    "quantity" : NumberInt(3),
+    "price" : NumberInt(50),
+    "date" : ISODate("2020-09-10T16:45:00.000+0000")
+}
+{
+    "_id" : ObjectId("67dac16523185efdf0072f8e"),
+    "product" : "Accessory",
+    "quantity" : NumberInt(15),
+    "price" : NumberInt(10),
+    "date" : ISODate("2021-02-20T09:30:00.000+0000")
+}
+{
+    "_id" : ObjectId("67dac16523185efdf0072f8f"),
+    "product" : "Widget",
+    "quantity" : NumberInt(12),
+    "price" : NumberInt(30),
+    "date" : ISODate("2022-04-05T11:45:00.000+0000")
+}
+{
+    "_id" : ObjectId("67dac16523185efdf0072f90"),
+    "product" : "Gadget",
+    "quantity" : NumberInt(7),
+    "price" : NumberInt(55),
+    "date" : ISODate("2023-01-10T14:30:00.000+0000")
+}
+{
+    "_id" : ObjectId("67dac16523185efdf0072f91"),
+    "product" : "Accessory",
+    "quantity" : NumberInt(20),
+    "price" : NumberInt(12),
+    "date" : ISODate("2023-04-15T09:30:00.000+0000")
+}

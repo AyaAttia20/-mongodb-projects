@@ -1,0 +1,49 @@
+{
+    "_id" : ObjectId("67d7ef54c230566a8d072f92"),
+    "name" : "John Doe",
+    "department" : "Sales",
+    "salary" : NumberInt(60000),
+    "hireDate" : ISODate("2022-03-15T08:00:00.000+0000")
+}
+{
+    "_id" : ObjectId("67d7ef54c230566a8d072f93"),
+    "name" : "Alice Smith",
+    "department" : "Sales",
+    "salary" : NumberInt(55000),
+    "hireDate" : ISODate("2022-05-20T09:30:00.000+0000")
+}
+{
+    "_id" : ObjectId("67d7ef54c230566a8d072f94"),
+    "name" : "Bob Johnson",
+    "department" : "Engineering",
+    "salary" : NumberInt(70000),
+    "hireDate" : ISODate("2021-10-10T14:15:00.000+0000")
+}
+{
+    "_id" : ObjectId("67d7ef54c230566a8d072f95"),
+    "name" : "Sarah Brown",
+    "department" : "Sales",
+    "salary" : NumberInt(58000),
+    "hireDate" : ISODate("2022-08-05T11:45:00.000+0000")
+}
+{
+    "_id" : ObjectId("67d7ef54c230566a8d072f96"),
+    "name" : "David Lee",
+    "department" : "Engineering",
+    "salary" : NumberInt(72000),
+    "hireDate" : ISODate("2022-01-25T16:30:00.000+0000")
+}
+{
+    "_id" : ObjectId("67d7ef54c230566a8d072f97"),
+    "name" : "Emily Taylor",
+    "department" : "Engineering",
+    "salary" : NumberInt(68000),
+    "hireDate" : ISODate("2021-12-10T08:30:00.000+0000")
+}
+{
+    "_id" : ObjectId("67d7ef54c230566a8d072f98"),
+    "name" : "Olivia Wilson",
+    "department" : "Sales",
+    "salary" : NumberInt(59000),
+    "hireDate" : ISODate("2022-09-15T10:00:00.000+0000")
+}
