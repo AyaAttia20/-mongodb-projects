@@ -1,4 +1,4 @@
-# 📚 MongoDB Projects with Studio 3T
+# 📚 MongoDB Projects with Studio 3T (NOSQL)
 
 This repository contains a collection of NoSQL database projects built using MongoDB and managed with Studio 3T.
 
